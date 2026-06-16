@@ -10,7 +10,7 @@ import { generateHundreds } from "./logic/generateHundreds";
 import { generateThousands } from "./logic/generateThousands";
 import { generateTensOfThousands } from "./logic/generateTensOfThousands";
 import { generateHundredsOfThousands } from "./logic/generateHundredsOfThousands";
-import logoImage from "./assets/pama.jpeg";
+import logoImage from "./assets/pama_logo.png";
 
 // Import Audio Assets
 import tickSound from "./assets/sounds/tick.wav";
